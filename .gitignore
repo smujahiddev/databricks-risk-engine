@@ -1,0 +1,17 @@
+NTUSER*
+AppData/
+Downloads/
+OneDrive/
+Contacts/
+Favorites/
+Videos/
+Music/
+Saved Games/
+Searches/
+*.log
+AppData/
+NTUSER*
+*.log
+.vscode/
+.aws/
+.streamlit/
